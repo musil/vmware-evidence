@@ -1,1 +1,3 @@
 .env
+vsphere_vm.csv
+vsphere_hosts.csv
